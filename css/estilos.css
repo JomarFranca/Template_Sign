@@ -4,6 +4,9 @@
 
 body {
     background: linear-gradient(180deg, #7ac9e9 10%, #d0e9ee 100%);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
 }
 
 /* CABEÇALHO */

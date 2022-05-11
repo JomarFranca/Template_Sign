@@ -1,0 +1,27 @@
+A invenção da imprensa só foi possível pela invenção e refinamento das técnicas de fabricação de papel na China ao longo de vários séculos. Muito antes de Gutenberg, as inovações chinesas nas tintas, impressão xilográfica e impressão com caracteres móveis de argila, já tinham prestado a sua contribuição para a divulgação da palavra impressa, verificando-se assim um grande impacto pela fácil adaptação dos 26 caracteres do alfabeto latino a essa tecnologia.
+
+As rápidas mudanças culturais na Europa do século XV estimularam uma crescente procura de documentos escritos mais baratos. Durante séculos os monges copistas garantiram a manutenção e a reprodução de textos sagrados, o mundo secular criou a sua própria versão de copista criando um novo posto de trabalho mas apesar do crescente aumento, não conseguiam dar resposta à crescente procura comercial de livros.
+
+Gutemberg pressentiu a necessidade de uma tecnologia que pudesse dar resposta a estes problemas, para tal, inventou a prensa de tipos móveis. Sua técnica consistia em esculpir na extremidade de uma haste de aço, letras, números e sinais ; posteriormente, golpeava-se estas hastes com um martelo contra um metal mais mole (ex.chumbo).
+Os espaços vazios que se formavam no chumbo serviam de molde que eram cheios com estanho fundido, obtendo-se as letras, números e sinais (tipos). Após a confecção dos tipos, usava-se os mesmos em um processo lento e vagaroso para formar linhas e conseqüentemente páginas inteiras possibilitando a impressão.
+
+
+O conjunto de caracteres, letras maiúsculas e minúsculas, sinais de pontuação e números feitos do mesmo tamanho e estilo, chamou-se tipo. Esta técnica de imprimir com tipos móveis chamou-se tipografia. Havia ainda a vantagem no uso destes tipos de metal fundido, pois os mesmos podiam ser usados para imprimir muitos textos diferentes.
+
+Para montar uma página de um livro, era necessário um dia inteiro de trabalho com os tipos, após este processo impregnava-se a página com tinta (uma mistura de azeite vegetal e pó de carvão) e em seguida, com uma prensa, pressionava-se o papel contra as letras embebidas de tinta para se obter o papel impresso.
+
+Vale lembrar que o material usado na confecção dos tipos (estanho) podia ser reaproveitado por longo tempo, fundindo os mesmos novamente após o desgaste pelo uso contínuo. Atualmente, em função dos avanços tecnológicos a arte da tipografia está quase extinta.
+
+Em 1796, o austríaco Alois Senefelder inventou um outro processo para reprodução de textos em papel chamado de litografia. Sua técnica consistia em gravar com tinta gordurosa em uma pedra polida, depois pressionar o papel contra ela usando uma prensa, obtendo então a reprodução do texto. Mais tarde, a pedra foi substituída por placas metálicas.
+
+Anos mais tarde, Friedrich Koenig inventou o entintamento automático por meio de rolos que espalhavam a tinta sobre as letras metálicas.
+
+O processo de troca de papel para impressão exigia muito esforço, pois era preciso mover as pesadas alavancas da prensa. Em 1803, o impressor Friedrich Koenig desenvolveu a impressão cilíndrica, que usava dois cilindros para levar o papel até a prancha de impressão.
+
+Em 1884, Otto Mergenthaler inventou a linotipia. Esta invenção significou um excepcional avanço para a imprensa, já que cada peça de metal, em vez de formar uma única letra, continha todas as letras de uma linha. Outro grande passo rumo a modernização foi a estereotipia ou clichê adaptável, pois possibilitava a confecção de páginas completas para impressão.
+
+Tais invenções permitiram aumentar a velocidade das impressões em série, a razão de mil folhas por hora, considerada alta produtividade para a época.
+
+Desde então os avanços não pararam, foram inventados novos acessórios e chegamos a técnica de impressão off-set (incluir link), técnica que evoluiu diretamente da litografia.
+
+Nos últimos anos, as aplicações do raio laser nas artes gráficas foram responsáveis por progressos consideráveis. Nas técnicas fotoeletrônicas atuais, as partículas de tinta aderem ao papel graças a forças de atração elétrica, foi criado assim a fotocopiadora que posteriormente aprimorada e conectada aos computadores criou a impressão digital.

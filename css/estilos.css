@@ -1,21 +1,22 @@
+/* Resetando o CSS */
 * {
     margin: 0px;
-    height: ;
+    padding: 0px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/* Corpo do Site */
 body {
     background: linear-gradient(180deg, #7ac9e9 10%, #d0e9ee 100%);
     background-repeat: no-repeat;
     width: 100%;
-    height: 800px;
+    height: 100%;
 }
 
 /* CABEÇALHO */
 
 .header {
-    background-color: #0a4d99;
-    margin: 0;
+    background-color: #0a4d99;    
     height: 200px;
     width: auto;
     position: relative;
@@ -39,26 +40,9 @@ body {
 
 /* DIVS CENTRAIS*/
 
-h1 {
-    color: #fff;
-    text-align: center;
-    text-shadow: 1px 1px 1px #000;
-}
-p {
-    text-align: justify;
-    color: #070799;
-}
 .menu {
     background-color: #5e02a8;
-}
-
-.container {
-    width: 1224px;
-    margin: 0 auto;
-}
-
-.corpo {
-    min-height: 500px;
+    width: 100%;
 }
 
 .menu ul {
@@ -69,7 +53,6 @@ p {
 li.menu-item {
     font-size: medium;
     display: inline;
-    text-decoration: none;
 }
 
 li.menu-item:hover {
@@ -89,10 +72,23 @@ li.menu-item:active {
     cursor:pointer;
     text-transform: uppercase;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .menu-item a:active {
     color: #5e02a8;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000;
+}
+
+p {
+    text-align: justify;
+    color: #070799;
+    padding: 20px;
 }
 
 /* RODAPÉ */

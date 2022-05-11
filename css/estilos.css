@@ -93,12 +93,20 @@ li.menu-item:active {
 /* RODAPÉ */
 
 footer {
-    background-color: #070799;
-    text-align: center;
-    font-weight: bold;
-    padding: 40px;
-    color: #fff;
+    width: auto;
+    height: 40px;
+    background-color: #000;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-
+.footer-texto {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    font-variant:small-caps;
+}
 

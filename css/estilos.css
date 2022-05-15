@@ -6,6 +6,7 @@
     padding: 0px;
     box-sizing: border-box;
     outline: none;
+    list-style: none;
     font-family: 'Roboto', 'sans-serif', 'Sarala', 'sans-serif';
 }
 
@@ -155,6 +156,7 @@ section {
     width: 300px;
     height: auto;
     padding: 5px;
+    border-radius: 8px;
 }
 
 .social-icons {
@@ -169,6 +171,7 @@ section {
 .social-icons img {
     width: 32px;
     height: 32px;
+    border-radius: 4px;
     position: relative;
 }
 
